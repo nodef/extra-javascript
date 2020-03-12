@@ -1,3 +1,3 @@
 'use strict';
-import {minify} from 'uglify-js';
+const minify = require('uglify-js').minify;
 export default minify;

@@ -1,2 +1,3 @@
 'use strict';
-module.exports = require('browserify');
+const browserify = require('browserify');
+export default browserify;
