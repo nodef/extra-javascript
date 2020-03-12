@@ -1,6 +1,6 @@
 {
   "name": "extra-javascript",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "TODO",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/nodef/extra-javascript/issues"
   },
-  "homepage": "https://github.com/nodef/extra-javascript#readme"
+  "homepage": "https://github.com/nodef/extra-javascript#readme",
+  "dependencies": {
+    "browserify": "^16.5.0",
+    "uglify-js": "^3.8.0"
+  }
 }
