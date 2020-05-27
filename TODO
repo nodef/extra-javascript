@@ -1,1 +1,5 @@
 Parser, generator
+- https://www.npmjs.com/package/requires-regex
+- https://www.npmjs.com/package/comment-regex
+- https://www.npmjs.com/package/regexp-require
+- https://www.npmjs.com/package/line-number
