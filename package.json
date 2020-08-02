@@ -1,6 +1,6 @@
 {
   "name": "extra-javascript",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "TODO",
   "main": "index.js",
   "scripts": {
@@ -21,9 +21,9 @@
   },
   "homepage": "https://github.com/nodef/extra-javascript#readme",
   "dependencies": {
-    "@rollup/plugin-commonjs": "^11.0.2",
-    "browserify": "^16.5.0",
-    "rollup": "^2.0.4",
-    "uglify-js": "^3.8.0"
+    "@rollup/plugin-commonjs": "^14.0.0",
+    "browserify": "^16.5.1",
+    "rollup": "^2.23.0",
+    "uglify-js": "^3.10.1"
   }
 }
